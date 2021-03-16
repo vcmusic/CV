@@ -11,8 +11,18 @@ body {
 h1 {
   color: #3e432e;
   text-align: center;
+  font-size: 50px;
 }
 h3 {
   color: #1f441e;
-  
+  font-size: 30px;
+  text-align: justify;
+
+}
+p {
+  font-size: 20px
+}
+
+table {
+  font-size: 20px;
 }
